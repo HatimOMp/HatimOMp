@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HatimOMp
 - 👀 I’m interested in Data Science and Cloud Computing topics
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on Data and Cloud projects
 - 📫 How to reach me : in Github
 
